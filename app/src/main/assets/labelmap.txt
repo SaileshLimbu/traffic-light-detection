@@ -1,0 +1,12 @@
+Red Light
+Green Light
+Red Light (Left Turn)
+Yield
+Green Light (Left Turn)
+Speed Limit 45
+Stop
+Speed Limit 50
+Speed Limit 35
+Do Not Enter
+Speed Limit 30
+Speed Limit 20
